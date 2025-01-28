@@ -4,5 +4,6 @@ myenv/
 
 
 *.pyc
-build/
-dist/
+2.Web\ automation\ and\ Web\ Scraping/build/
+2.Web\ automation\ and\ Web\ Scraping/dist/
+2.Web\ automation\ and\ Web\ Scraping/myenv/

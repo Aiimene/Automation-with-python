@@ -4,5 +4,5 @@ myenv/
 
 
 *.pyc
-/build
-/dist
+build/
+dist/
